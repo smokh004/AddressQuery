@@ -1,1 +1,12 @@
 
+24866[AddressNumber] Lorain[StreetName] Rd[StreetNamePostType] N.[StreetNamePostDirectional] OLMSTED[PlaceName] OH[StateName] 44070[ZipCode]
+6120[AddressNumber] W[StreetNamePreDirectional] Behrend[StreetName] D,[StreetNamePostType] Ste[OccupancyType] 145[OccupancyIdentifier] Glendale[PlaceName] AZ[StateName] 85308[ZipCode]
+7790[AddressNumber] E[StreetNamePreDirectional] McDowell[StreetName] Rd[StreetNamePostType] Scottsdale[PlaceName] AZ[StateName] 85257[ZipCode]
+6549[AddressNumber] E[StreetNamePreDirectional] Cypress[StreetName] St[StreetNamePostType] Scottsdale[PlaceName] AZ[StateName] 85257[ZipCode]
+14201[AddressNumber] N[StreetNamePreDirectional] 87th[StreetName] St,[StreetNamePostType] Ste[OccupancyType] 125[OccupancyIdentifier] Scottsdale[PlaceName] AZ[StateName] 85260[ZipCode]
+14850[AddressNumber] N[StreetNamePreDirectional] 83rd[StreetName] Pl,[StreetNamePostType] Ste[OccupancyType] A-1[OccupancyIdentifier] Scottsdale[PlaceName] AZ[StateName] 85260[ZipCode]
+200[AddressNumber] E[StreetNamePreDirectional] Van[StreetName] Buren[StreetName] St[StreetNamePostType] Phoenix[PlaceName] AZ[StateName] 85004[ZipCode]
+1[AddressNumber] E[StreetNamePreDirectional] Washington[StreetName] St[StreetNamePostType] Phoenix[PlaceName] AZ[StateName] 85004[ZipCode]
+6401[AddressNumber] Penn[StreetName] Ave[StreetNamePostType] Pittsburgh[PlaceName] PA[StateName] 15206[ZipCode]
+120[AddressNumber] Penn[StreetName] Cir[StreetNamePostType] W[StreetNamePostDirectional] Pittsburgh[PlaceName] PA[StateName] 15206[ZipCode]
+2610[AddressNumber] E[StreetNamePreDirectional] Mohawk[StreetName] Ln,[StreetNamePostType] Ste[OccupancyType] 108[OccupancyIdentifier] Phoenix[PlaceName] AZ[StateName] 85050[ZipCode]
